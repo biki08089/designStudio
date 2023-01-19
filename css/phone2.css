@@ -1,0 +1,107 @@
+/* midsection6 design */
+#midsection6 .child3 {
+  width: 350px;
+  height: 350px;
+  top: 61px;
+  left: 121px;
+}
+
+#midsection6 .child4 {
+  flex-direction: column-reverse;
+  width: 501px;
+}
+
+#midsection6 .child4 .image1 {
+  width: 250px;
+  height: 250px;
+  top: 204px;
+  left: 10px;
+}
+#midsection6 .child4 .image2 {
+  width: 400px;
+  height: 400px;
+  top: -100px;
+  left: 108px;
+}
+/* midsection4 design*/
+
+#midsection4 .midsec4 {
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  height: auto;
+  width: 550px;
+}
+
+#midsection4 {
+  height: auto;
+}
+
+#midsection4 .midsec4 .box {
+  height: 99%;
+  width: 83%;
+}
+
+#midsection4 .midsec4 .box h1 {
+  font-size: 37px;
+}
+#midsection4 .midsec4 .box p {
+  font-size: 22px;
+}
+
+/* #midsection8  */
+#midsection8 .child2 {
+  height: 864px;
+  width: 547px;
+}
+
+#midsection8 form button {
+  width: 400px;
+  height: 60px;
+  font-size: 25px;
+}
+
+/* midsection5 design */
+
+#midsection5 .a {
+  width: 807px;
+  height: 811px;
+}
+
+#midsection5 .a img {
+  width: 443px;
+  height: 461px;
+}
+
+#midsection5 .b {
+  width: 559px;
+  height: 811px;
+}
+#midsection5 .b .child2 h1 {
+  font-size: 30px;
+}
+
+#midsection5 .b .child2 p {
+  font-size: 24px;
+}
+/* topsection design */
+
+#topsection {
+  height: 1419px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+#topsection .tophome1 img {
+  width: 630px;
+  height: 429px;
+  right: 20px;
+  bottom: 78px;
+}
+
+/* midsection2 design */
+
+#midsection2 .a h2 {
+  font-size: 35px;
+}
+#midsection2 .a p {
+  font-size: 22px;
+}

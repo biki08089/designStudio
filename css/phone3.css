@@ -1,0 +1,258 @@
+/* body {
+  background-color: black;
+} */
+
+/* nav design */
+
+nav {
+  height: 53px;
+}
+
+nav img {
+  height: 43px;
+  margin-left: 90px;
+}
+
+/* topsection design */
+
+#topsection {
+  height: 910px;
+}
+
+#topsection .tophome1 img {
+  width: 376px;
+  height: 260px;
+  right: 18px;
+}
+
+#topsection .tophome2 h1 {
+  font-size: 75px;
+  margin: 10px 0px;
+}
+
+.tophome2 p {
+  font-size: 21px;
+}
+
+.tophome2 h4 {
+  font-size: 16px;
+  margin: 23px 0px;
+}
+
+.tophome2 button {
+  width: 198px;
+  height: 55px;
+  font-size: 19px;
+}
+
+.tophome2::after {
+  top: 25px;
+  height: 7px;
+  width: 110px;
+  left: 25px;
+}
+
+/* midsection design */
+#midsection .parent1 h1 {
+  font-size: 38px;
+}
+#midsection .parent1 p {
+  font-size: 21px;
+  text-align: center;
+}
+
+.parent2 .midcontainer div {
+  height: 65px;
+  width: 65px;
+}
+.parent2 .midcontainer h2 {
+  font-size: 27px;
+}
+
+.parent2 .midcontainer p {
+  font-size: 18px;
+}
+
+/* midsection2 design */
+
+#midsection2 .b {
+  margin-top: 0;
+  height: 510px;
+  width: 420px;
+}
+#midsection2 .a {
+  padding: 20px 10px;
+  width: 420px;
+}
+
+#midsection2 .a h2 {
+  font-size: 29px;
+}
+#midsection2 .a p {
+  font-size: 18px;
+}
+
+/* midsection4 design */
+#midsection4 .heading {
+  font-size: 30px;
+}
+
+#midsection4 .midsec4 {
+  width: 351px;
+}
+
+#midsection4 .midsec4 .box {
+  height: 102%;
+}
+
+#midsection4 .midsec4 .box h1 {
+  font-size: 25px;
+}
+
+#midsection4 .midsec4 .box p {
+  margin: 20px 0px;
+}
+
+/* midsection3 design */
+
+#midsection3 {
+  height: 1300px;
+}
+
+#midsection3 .a {
+  margin-top: 387px;
+  width: 620px;
+}
+#midsection3 .a h1 {
+  font-size: 35px;
+}
+
+#midsection3 .a p {
+  font-size: 20px;
+}
+
+#midsection3 .b {
+  margin-top: 0;
+  height: 292px;
+  width: 352px;
+}
+
+/* midsection5 design */
+#midsection5 .a {
+  width: 367px;
+  height: 808px;
+  padding: 0 10px;
+}
+
+#midsection5 .a img {
+  width: 351px;
+  height: 342px;
+}
+
+#midsection5 .a h1 {
+  font-size: 32px;
+}
+
+#midsection5 .b .child1 img {
+  width: 100px;
+  height: 100px;
+}
+#midsection5 .b .child1 p {
+  font-size: 25px;
+}
+#midsection5 .b .child1 {
+  padding: 10px 15px;
+}
+#midsection5 .b .child2 {
+  padding: 36px 31px;
+}
+
+#midsection5 .b .child2 h1 {
+  font-size: 27px;
+}
+
+#midsection5 .b .child2 p {
+  font-size: 20px;
+}
+/* #midsection6 design */
+#midsection6 .child3 {
+  width: 260px;
+  height: 260px;
+  top: 61px;
+  left: 24px;
+}
+
+#midsection6 .child4 .image1 {
+  top: 261px;
+  left: 39px;
+}
+
+#midsection6 .child4 .image2 {
+  width: 300px;
+  height: 300px;
+  top: -104px;
+  left: 22px;
+}
+
+#midsection6 .child4 {
+  width: 330px;
+}
+
+/* midsection8 form design */
+
+#midsection8 .child1 {
+  height: 600px;
+  width: 701px;
+  box-sizing: border-box;
+}
+
+#midsection8 .child1 h1 {
+  font-size: 35px;
+}
+
+#midsection8 .child1 p {
+  font-size: 27px;
+}
+
+#midsection8 .child2 {
+  height: 654px;
+  width: 376px;
+  box-sizing: border-box;
+  margin: 0 32px;
+}
+
+#midsection8 .child2 h1 {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+#midsection8 form input {
+  width: 287px;
+  height: 51px;
+  font-size: 15px;
+}
+
+#midsection8 form textarea {
+  width: 287px;
+  height: 153px;
+  font-size: 15px;
+}
+
+#midsection8 form label {
+  margin: 7px 31px;
+  font-size: 20px;
+}
+
+#midsection8 form .child3 label {
+  font-size: 15px;
+}
+
+#midsection8 form button {
+  width: 222px;
+  height: 60px;
+  font-size: 18px;
+}
+
+#midsection9 {
+    font-size: 11px;
+}

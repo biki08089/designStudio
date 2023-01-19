@@ -1,0 +1,310 @@
+/* midsection6 design */
+#midsection6 .child3 {
+  width: 500px;
+  height: 500px;
+  top: 61px;
+  left: 215px;
+}
+
+#midsection6 .child4 {
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  width: 900px;
+}
+
+#midsection6 .child4 .image1 {
+  width: 300px;
+  height: 300px;
+  top: 204px;
+  left: 10px;
+}
+#midsection6 .child4 .image2 {
+  width: 500px;
+  height: 500px;
+  top: -100px;
+  left: 365px;
+}
+
+/* midsection4 design
+ */
+#midsection4 .midsec4 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: auto;
+  width: 894px;
+}
+
+#midsection4 {
+  height: auto;
+}
+
+#midsection4 .midsec4 .box {
+  height: 95%;
+  width: 90%;
+}
+
+/* midsection designing */
+.parent2 {
+  flex-wrap: wrap;
+}
+.midcontainer {
+  height: 350px;
+  width: 314px;
+  margin: 15px;
+}
+
+.parent2 .midcontainer div {
+  height: 75px;
+  width: 75px;
+  font-size: 40px;
+}
+.parent2 .midcontainer h2 {
+  font-size: 32px;
+}
+
+.parent2 .midcontainer p {
+  font-size: 22px;
+}
+.parent2 .midcontainer button {
+  width: 138px;
+  height: 62px;
+  font-size: 31px;
+}
+
+/* midsection design */
+#midsection2 {
+  flex-wrap: wrap;
+  height: 1000px;
+}
+#midsection2 .a {
+  margin-top: 0;
+  height: 810px;
+  width: 807px;
+}
+#midsection2 .b {
+  margin-top: 0;
+  height: 810px;
+  width: 807px;
+}
+#midsection2 .a h2 {
+  font-size: 46px;
+}
+
+#midsection2 .a p {
+  font-size: 22px;
+}
+
+#midsection2 .a h4 {
+  font-size: 17px;
+}
+
+/* midsection3 design */
+#midsection3 {
+  height: 1724px;
+  flex-wrap: wrap;
+}
+
+#midsection3 .a {
+  margin-top: 650px;
+  width: 620px;
+}
+#midsection3 .b {
+  margin-top: 0;
+  height: 438px;
+  width: 807px;
+}
+
+#midsection3 .a h1 {
+  font-size: 60px;
+}
+#midsection3 .a p {
+  font-size: 22px;
+}
+/* midsection5 design */
+#midsection5 {
+  height: 1804px;
+  flex-wrap: wrap;
+}
+
+#midsection5 .a {
+  width: 807px;
+  height: 811px;
+}
+
+#midsection5 .a img {
+  width: 550px;
+  height: 467px;
+}
+#midsection5 .a h1 {
+  font-size: 40px;
+}
+
+#midsection5 .a p {
+  font-size: 24px;
+}
+#midsection5 .a h4 {
+  font-size: 22px;
+}
+
+#midsection5 .b {
+  width: 807px;
+  height: 811px;
+}
+
+#midsection5 .b .child1 img {
+  width: 130px;
+  height: 130px;
+}
+#midsection5 .b .child1 p {
+  font-size: 29px;
+}
+
+#midsection5 .b .child2 h1 {
+  font-size: 43px;
+}
+
+#midsection5 .b .child2 p {
+  font-size: 29px;
+}
+
+#midsection5 .b .child2 button {
+  width: 217px;
+  height: 72px;
+  font-size: 32px;
+}
+
+/* midsection7 design */
+#midsection7 {
+  flex-wrap: wrap;
+  height: 740px;
+}
+
+#midsection7 .box {
+  margin: 10px;
+}
+
+#midsection7 .box img {
+  height: 30px;
+  width: 30px;
+}
+
+#midsection7 .box h2 {
+  font-size: 32px;
+}
+
+#midsection7 .box p {
+  font-size: 22px;
+}
+/* midsection8 design */
+#midsection8 {
+  height: 1500px;
+  flex-wrap: wrap;
+}
+
+#midsection8 .child1 {
+  height: 600px;
+  width: 701px;
+  padding: 0 19px;
+}
+
+#midsection8 .child1 h1 {
+  font-size: 50px;
+}
+
+#midsection8 .child1 p {
+  font-size: 31px;
+}
+
+#midsection8 .child2 {
+  height: 864px;
+  width: 647px;
+}
+#midsection8 .child2 h1 {
+  font-size: 40px;
+}
+#midsection8 form label {
+  margin: 7px 57px 7px;
+  font-size: 25px;
+}
+
+#midsection8 form input {
+  width: 533px;
+  height: 100px;
+  font-size: 25px;
+}
+
+#midsection8 form textarea {
+  width: 533px;
+  font-size: 25px;
+}
+
+#midsection8 form button {
+  width: 400px;
+  height: 60px;
+  position: unset;
+  font-size: 25px;
+}
+
+#midsection8 form .child4 {
+  display: flex;
+  justify-content: center;
+  margin-top: 21px;
+}
+
+/* topsection design */
+
+#topsection {
+  height: 1300px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+#topsection .tophome2 {
+  width: 100%;
+}
+#topsection .tophome2 h1 {
+  font-size: 164px;
+}
+
+.tophome2::after {
+  top: 50px;
+  height: 13px;
+  width: 181px;
+  left: 31px;
+}
+
+.tophome2 p {
+  font-size: 32px;
+}
+
+.tophome2 h4 {
+  font-size: 25px;
+}
+
+.tophome2 button {
+  width: 295px;
+  height: 85px;
+  font-size: 30px;
+}
+
+#topsection .tophome1 {
+  width: 100%;
+}
+
+#topsection .tophome1 img {
+  width: 815px;
+  height: 553px;
+  right: 189px;
+}
+/* navbar design */
+nav img {
+  height: 61px;
+  margin-left: 152px;
+}
+
+#midsection .parent1 h1 {
+  font-size: 64px;
+}
+
+#midsection .parent1 p {
+  font-size: 23px;
+}
